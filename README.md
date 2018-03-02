@@ -1,5 +1,6 @@
 # HTTP/2 with Spring Boot based on jetty9
 
+**NOTE:** you have to use OpenJDK to tun this sample. More details: TBD
 
 ## Building this project
 
